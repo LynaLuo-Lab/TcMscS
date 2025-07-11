@@ -1,0 +1,14 @@
+0. Nanodisc
+Contains three Anton2 replicas (R-1_nanodisc.pdb). Each replica is 2.5 µs long.
+
+1. 10_mN_m
+This folder contains a 2 µs Anton2 simulation (R-1_2us_anton2_10mN_m.pdb). Replicas R-2 and R-3 are 0.25 µs AMBER simulations.
+
+2. 15_mN_m
+Replica 1 is a 2 µs Anton2 simulation (R-1_2us_anton2_15mN_m.pdb). Replicas R-2 and R-3 are 0.25 µs AMBER simulations.
+
+3. 20_mN_m
+Replica 1 is a 2 µs Anton2 simulation (R-1_2us_anton2_20mN_m.pdb). Replicas R-2 and R-3 are 0.25 µs AMBER simulations.
+
+4. 32_mN_m
+All three replicas in this folder were run using GROMACS 2022.
